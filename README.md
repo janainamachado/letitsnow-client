@@ -1,6 +1,6 @@
 ## Why: 
 
-As a brazilian born and raised in the aleays sunny Rio de Janeiro, once I moved to Europe, all I wanted was to chase the snow every winter. But I didn't find an app that would give me the precisely information that I wanted, nor the way I wanted, so I've decided to create one. Developers, huh? 
+As a brazilian born and raised in the always sunny Rio de Janeiro, once I moved to Europe, all I wanted was to chase the snow every winter. But I didn't find an app that would give me the precisely information that I wanted, nor the way I wanted, so I've decided to create one. Developers, huh? 
 The main focus of the app is simple: showing you where is it snowing at the moment so you can plan your winter trip ❄️ 
 
 
