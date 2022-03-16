@@ -35,9 +35,9 @@ function CityList(props) {
         <>
           <li className='city-style' onClick={() => handleFlyTo(city)} >{city.city_name}</li>
           <li className='listings-item'>{city.weather_type} {city.snow_mm}</li>
-            <li className='listings-item'>Current weather: (city.current_temp_celsius)°C</li>
-            <li className='listings-item'>Temp. Max: (city.max_temp_celsius)°C</li>
-            <li className='listings-item'>Temp. Min: (city.min_temp_celsius)°C</li>
+            <li className='listings-item'>Current weather: {city.current_temp_celsius}°C</li>
+            <li className='listings-item'>Temp. Max: {city.max_temp_celsius}°C</li>
+            <li className='listings-item'>Temp. Min: {city.min_temp_celsius}°C</li>
         </>  
             )} 
             
